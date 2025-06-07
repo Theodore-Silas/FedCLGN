@@ -12,4 +12,4 @@ This is the source code of AAAI25 paper [Federated Graph Anomaly Detection Throu
 - DGL==0.4.0
 
 ## Running the experiments
-~ python run.py
+ `python run.py`
