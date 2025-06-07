@@ -12,5 +12,4 @@ This is the source code of AAAI25 paper [Federated Graph Anomaly Detection Throu
 - DGL==0.4.0
 
 ## Running the experiments
-You need to create two subfolders named 'checkpoints' and 'logs' under the project directory, then
- python run.py
+You need to create two subfolders named 'checkpoints' and 'logs' under the project directory, then `python run.py`.
